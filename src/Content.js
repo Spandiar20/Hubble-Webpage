@@ -19,4 +19,4 @@ const content = [
   },
 ]
 
-export default content
+export default content;

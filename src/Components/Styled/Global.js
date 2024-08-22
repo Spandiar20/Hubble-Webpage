@@ -28,6 +28,11 @@ const GlobalStyles = createGlobalStyle`
         font-weight: bold;
         font-size: 2rem;
     }
+
+    h2 {
+        font-weight: bold;
+        font-size: 1.8rem
+    }
 `
 
 export default GlobalStyles;
